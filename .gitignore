@@ -1,0 +1,5 @@
+/userdata.db
+/Temp
+/the_server_public_key.asc
+*.asc
+*.pem
